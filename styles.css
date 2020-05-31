@@ -1,0 +1,30 @@
+h1{
+    text-align:center;
+    margin-bottom:0px;
+}
+#channel-logo{
+    border-radius:50%;
+}
+
+
+/*h1{
+    text-align:center;
+    margin-bottom:0px;
+}
+#channel{
+   display:inline;
+}
+#channel-logo{
+    display:inline;
+}
+#number-of-playlist{
+    text-align:center;
+    position:relative;
+    right:6%;
+}
+#playlist-description{
+    position:absolute;
+    top:-10%;
+    left:25%;
+}
+*/
